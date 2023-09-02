@@ -1,2 +1,2 @@
 # Tribute
-Small steps to tribute India Freedom Fighters.
+Small step to tribute India Freedom Fighters.
